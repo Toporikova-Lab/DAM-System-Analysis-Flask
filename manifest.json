@@ -6,7 +6,7 @@
     "entrypoint": "app"
   },
   "python": {
-    "version": "3.11.5",
+    "version": "3.8.10",
     "package_manager": {
       "name": "pip",
       "version": "24.2",
@@ -15,16 +15,31 @@
   },
   "files": {
     "requirements.txt": {
-      "checksum": "1287c4d6e7382e5f8634b53cfcb19dba"
+      "checksum": "5126bb2a7bc49fc60f75f90a73991aa5"
     },
     ".gitignore": {
-      "checksum": "7c18616795b56fa00a90d34258a2e8da"
+      "checksum": "fee4719508796fbf92397f1e11ea4e28"
     },
     "README.md": {
       "checksum": "71604835a05da72a2fbd83b88cacaeca"
     },
     "app.py": {
-      "checksum": "a37536ef47a6d23d5252e97dde760fb9"
+      "checksum": "0484dd69c5fcf6e19d858937bf80409f"
+    },
+    "app/__init__.py": {
+      "checksum": "cad6c2b3a7fce037acbc5cdfd2d86de5"
+    },
+    "app/__pycache__/__init__.cpython-311.pyc": {
+      "checksum": "0f0b17e5d1dd38c05b62cf964d0c63ab"
+    },
+    "app/__pycache__/routes.cpython-311.pyc": {
+      "checksum": "e34b3dbb3452c6e044803d08af01f63d"
+    },
+    "app/routes.py": {
+      "checksum": "b18f3f32264952da05515891ee5ffac4"
+    },
+    "app/templates/index.html": {
+      "checksum": "80bee5dafcabfa79c5e2c1c63ea72c69"
     }
   }
 }
